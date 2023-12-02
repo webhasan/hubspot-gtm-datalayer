@@ -1,4 +1,4 @@
-# GTM dataLayer for Hubspot From Tracking with Submission Values
+# GTM dataLayer for Hubspot From Tracking Including Submission Values
 
 ### How to use 
 1. In Google Tag Manager, create a new tag as a custom HTML tag.
